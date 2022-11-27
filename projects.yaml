@@ -13,8 +13,16 @@ categories:
     title: Admin Interface
   - category: graphql-api
     title: GraphQL API
-  - category: restful-api
-    title: RESTful API
+  - category: restful-api-authentication
+    title: RESTful API - Authentication
+  - category: restful-api-rate-limiting
+    title: RESTful API - Rate Limiting
+  - category: restful-api-pagination
+    title: RESTful API - Pagination
+  - category: restful-api-observability
+    title: RESTful API - Observability
+  - category: restful-api-templating
+    title: RESTful API - Templating
 
 labels:
   - label: "authentication"
@@ -65,32 +73,32 @@ projects:
     github_id: yezz123/AuthX
     pypi_id: authx
     labels: [authentication]
-    category: restful-api
+    category: restful-api-authentication
   - name: fastapi-auth
     github_id: dmontagu/fastapi-auth
     pypi_id: fastapi-auth
     labels: [authentication]
-    category: restful-api
+    category: restful-api-authentication
   - name: fastapi-azure-auth
     github_id: Intility/fastapi-azure-auth
     pypi_id: fastapi-azure-auth
     labels: [authentication]
-    category: restful-api
+    category: restful-api-authentication
   - name: fastapi-cloudauth
     github_id: tokusumi/fastapi-cloudauth
     pypi_id: fastapi-cloudauth
     labels: [authentication]
-    category: restful-api
+    category: restful-api-authentication
   - name: fastapi-login
     github_id: MushroomMaula/fastapi_login
     pypi_id: fastapi-login
     labels: [authentication]
-    category: restful-api
+    category: restful-api-authentication
   - name: fastapi-jwt-auth
     github_id: IndominusByte/fastapi-jwt-auth
     pypi_id: fastapi-jwt-auth
     labels: [authentication]
-    category: restful-api
+    category: restful-api-authentication
   - name: fastapi-security
     github_id: jacobsvante/fastapi-security
     pypi_id: fastapi-security
@@ -100,48 +108,48 @@ projects:
     github_id: mrtolkien/fastapi_simple_security
     pypi_id: fastapi-simple-security
     labels: [authentication]
-    category: restful-api
+    category: restful-api-authentication
   - name: fastapi-users
     github_id: fastapi-users/fastapi-users
     pypi_id: fastapi-users
     labels: [authentication]
-    category: restful-api
+    category: restful-api-authentication
 
   - name: fastapi-limiter
     github_id: long2ice/fastapi-limiter
     pypi_id: fastapi-limiter
     labels: [rate-limiting]
-    category: restful-api
+    category: restful-api-rate-limiting
 
   - name: fastapi-pagination
     github_id: uriyyo/fastapi-pagination
     pypi_id: fastapi-pagination
     labels: [pagination]
-    category: restful-api
+    category: restful-api-pagination
 
   - name: fastapi-opentracing
     github_id: wesdu/fastapi-opentracing
     pypi_id: fastapi-opentracing
     labels: [observability]
-    category: restful-api
+    category: restful-api-observability
   - name: opentelemetry-instrumentation-fastapi
     github_id: open-telemetry/opentelemetry-python-contrib
     pypi_id: opentelemetry-instrumentation-fastapi
     labels: [observability]
-    category: restful-api
+    category: restful-api-observability
   - name: prometheus-fastapi-instrumentator
     github_id: trallnag/prometheus-fastapi-instrumentator
     pypi_id: prometheus-fastapi-instrumentator
     labels: [observability]
-    category: restful-api
+    category: restful-api-observability
 
   - name: fastapi-chameleon
     github_id: mikeckennedy/fastapi-chameleon
     pypi_id: fastapi-chameleon
     labels: [observability]
-    category: restful-api
+    category: restful-api-templating
   - name: fastapi-jinja
     github_id: AGeekInside/fastapi-jinja
     pypi_id: fastapi-jinja
     labels: [observability]
-    category: restful-api
+    category: restful-api-templating
