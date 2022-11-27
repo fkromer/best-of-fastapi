@@ -17,3 +17,13 @@ projects:
     pypi_id: fastapi-admin
     labels: []
     category: admin-interface
+  - name: sqladmin
+    github_id: aminalaee/sqladmin
+    pypi_id: sqladmin
+    labels: []
+    category: admin-interface
+  - name: piccolo-admin
+    github_id: piccolo-orm/piccolo_admin
+    pypi_id: piccolo-admin
+    labels: []
+    category: admin-interface
