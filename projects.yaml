@@ -14,6 +14,7 @@ labels:
   - label: "authentication"
   - label: "rate-limiting"
   - label: "pagination"
+  - label: "observability"
 
 projects:
   - name: fastapi-admin
@@ -109,4 +110,20 @@ projects:
     github_id: uriyyo/fastapi-pagination
     pypi_id: fastapi-pagination
     labels: [pagination]
+    category: restful-api
+
+  - name: fastapi-opentracing
+    github_id: wesdu/fastapi-opentracing
+    pypi_id: fastapi-opentracing
+    labels: [observability]
+    category: restful-api
+  - name: opentelemetry-instrumentation-fastapi
+    github_id: open-telemetry/opentelemetry-python-contrib
+    pypi_id: opentelemetry-instrumentation-fastapi
+    labels: [observability]
+    category: restful-api
+  - name: prometheus-fastapi-instrumentator
+    github_id: trallnag/prometheus-fastapi-instrumentator
+    pypi_id: prometheus-fastapi-instrumentator
+    labels: [observability]
     category: restful-api
