@@ -15,6 +15,7 @@ labels:
   - label: "rate-limiting"
   - label: "pagination"
   - label: "observability"
+  - label: "templating"
 
 projects:
   - name: fastapi-admin
@@ -125,5 +126,16 @@ projects:
   - name: prometheus-fastapi-instrumentator
     github_id: trallnag/prometheus-fastapi-instrumentator
     pypi_id: prometheus-fastapi-instrumentator
+    labels: [observability]
+    category: restful-api
+
+  - name: fastapi-chameleon
+    github_id: mikeckennedy/fastapi-chameleon
+    pypi_id: fastapi-chameleon
+    labels: [observability]
+    category: restful-api
+  - name: fastapi-jinja
+    github_id: AGeekInside/fastapi-jinja
+    pypi_id: fastapi-jinja
     labels: [observability]
     category: restful-api
