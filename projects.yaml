@@ -103,7 +103,7 @@ projects:
     github_id: jacobsvante/fastapi-security
     pypi_id: fastapi-security
     labels: [authentication]
-    category: restful-api
+    category: restful-api-authentication
   - name: fastapi-simple-security
     github_id: mrtolkien/fastapi_simple_security
     pypi_id: fastapi-simple-security
