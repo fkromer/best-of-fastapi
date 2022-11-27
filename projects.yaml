@@ -52,9 +52,39 @@ projects:
     labels: []
     category: admin-interface
 
+  - name: gino
+    github_id: python-gino/gino
+    pypi_id: gino
+    labels: []
+    category: database-orms
+  - name: orm
+    github_id: encode/orm
+    pypi_id: orm
+    labels: []
+    category: database-orms
+  - name: ormar
+    github_id: collerek/ormar
+    pypi_id: ormar
+    labels: []
+    category: database-orms
+  - name: piccolo
+    github_id: piccolo-orm/piccolo
+    pypi_id: piccolo
+    labels: []
+    category: database-orms
+  - name: prisma
+    github_id: RobertCraigie/prisma-client-py
+    pypi_id: prisma
+    labels: []
+    category: database-orms
   - name: sqlalchemy
     github_id: sqlalchemy/sqlalchemy
     pypi_id: sqlalchemy
+    labels: []
+    category: database-orms
+  - name: tortoise-orm
+    github_id: tortoise/tortoise-orm
+    pypi_id: tortoise-orm
     labels: []
     category: database-orms
 
