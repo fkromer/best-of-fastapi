@@ -13,6 +13,8 @@ categories:
     title: Admin Interface
   - category: database-orms
     title: Database - ORMs
+  - category: database-orm-integrations
+    title: Database - ORM Integrations
   - category: graphql-api
     title: GraphQL API
   - category: restful-api-authentication
@@ -55,6 +57,18 @@ projects:
     pypi_id: sqlalchemy
     labels: []
     category: database-orms
+
+y
+  - name: fastapi-sqlalchemy
+    github_id: mfreeborn/fastapi-sqlalchemy
+    pypi_id: fastapi-sqlalchemy
+    labels: []
+    category: database-orm-integrations
+  - name: sqlmodel
+    github_id: tiangolo/sqlmodel
+    pypi_id: sqlmodel
+    labels: []
+    category: database-orm-integrations
 
   - name: ariadne
     github_id: mirumee/ariadne
