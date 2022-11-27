@@ -11,9 +11,7 @@ categories:
     title: RESTful API
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "authentication"
 
 projects:
   - name: fastapi-admin
