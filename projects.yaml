@@ -7,6 +7,8 @@ categories:
     title: Admin Interface
   - category: graphql-api
     title: GraphQL API
+  - category: restful-api
+    title: RESTful API
 
 labels:
   # - label: "python"
