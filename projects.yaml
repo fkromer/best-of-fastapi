@@ -12,7 +12,8 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: fastapi-admin
+    github_id: fastapi-admin/fastapi-admin
+    pypi_id: fastapi-admin
+    labels: []
+    category: admin-interface
