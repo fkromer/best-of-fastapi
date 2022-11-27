@@ -11,6 +11,8 @@ configuration:
 categories:
   - category: admin-interface
     title: Admin Interface
+  - category: database-orms
+    title: Database - ORMs
   - category: graphql-api
     title: GraphQL API
   - category: restful-api-authentication
@@ -47,6 +49,12 @@ projects:
     pypi_id: piccolo-admin
     labels: []
     category: admin-interface
+
+  - name: sqlalchemy
+    github_id: sqlalchemy/sqlalchemy
+    pypi_id: sqlalchemy
+    labels: []
+    category: database-orms
 
   - name: ariadne
     github_id: mirumee/ariadne
