@@ -29,3 +29,24 @@ projects:
     pypi_id: piccolo-admin
     labels: []
     category: admin-interface
+
+  - name: ariadne
+    github_id: mirumee/ariadne
+    pypi_id: ariadne
+    labels: []
+    category: graphql-api
+  - name: graphene
+    github_id: graphql-python/graphene
+    pypi_id: graphene
+    labels: []
+    category: graphql-api
+  - name: strawberry
+    github_id: strawberry-graphql/strawberry
+    pypi_id: strawberry
+    labels: []
+    category: graphql-api
+  - name: tartiflette
+    github_id: tartiflette/tartiflette
+    pypi_id: tartiflette
+    labels: []
+    category: graphql-api
