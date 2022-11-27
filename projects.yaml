@@ -58,7 +58,6 @@ projects:
     labels: []
     category: database-orms
 
-y
   - name: fastapi-sqlalchemy
     github_id: mfreeborn/fastapi-sqlalchemy
     pypi_id: fastapi-sqlalchemy
