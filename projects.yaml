@@ -71,3 +71,28 @@ projects:
     pypi_id: fastapi-cloudauth
     labels: [authentication]
     category: restful-api
+  - name: fastapi-login
+    github_id: MushroomMaula/fastapi_login
+    pypi_id: fastapi-login
+    labels: [authentication]
+    category: restful-api
+  - name: fastapi-jwt-auth
+    github_id: IndominusByte/fastapi-jwt-auth
+    pypi_id: fastapi-jwt-auth
+    labels: [authentication]
+    category: restful-api
+  - name: fastapi-security
+    github_id: jacobsvante/fastapi-security
+    pypi_id: fastapi-security
+    labels: [authentication]
+    category: restful-api
+  - name: fastapi-simple-security
+    github_id: mrtolkien/fastapi_simple_security
+    pypi_id: fastapi-simple-security
+    labels: [authentication]
+    category: restful-api
+  - name: fastapi-users
+    github_id: fastapi-users/fastapi-users
+    pypi_id: fastapi-users
+    labels: [authentication]
+    category: restful-api
