@@ -10,18 +10,19 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-32-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-36-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-fastapi/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-fastapi?color=green&label=updated"></a>
 </p>
 
-This curated list contains 32 awesome open-source projects with a total of 47K stars grouped into 9 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-fastapi/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-fastapi/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-fastapi/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 36 awesome open-source projects with a total of 55K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-fastapi/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-fastapi/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-fastapi/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [Admin Interface](#admin-interface) _3 projects_
+- [Database - ODMs](#database---odms) _4 projects_
 - [Database - ORMs](#database---orms) _7 projects_
 - [Database - ORM Integrations](#database---orm-integrations) _2 projects_
 - [GraphQL API](#graphql-api) _4 projects_
@@ -91,11 +92,65 @@ This curated list contains 32 awesome open-source projects with a total of 47K s
 </details>
 <br>
 
+## Database - ODMs
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/MongoEngine/mongoengine">mongoengine</a></b> (🥇39 ·  ⭐ 3.9K · ➕) - A Python Object-Document-Mapper for working with MongoDB. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/MongoEngine/mongoengine) (👨‍💻 380 · 🔀 1.1K · 📦 18K · 📋 1.6K - 21% open · ⏱️ 24.10.2022):
+
+	```
+	git clone https://github.com/MongoEngine/mongoengine
+	```
+- [PyPi](https://pypi.org/project/mongoengine) (📥 830K / month):
+	```
+	pip install mongoengine
+	```
+</details>
+<details><summary><b><a href="https://github.com/mongodb/motor">motor</a></b> (🥈35 ·  ⭐ 2K · ➕) - Motor - the async Python driver for MongoDB and Tornado or asyncio. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/mongodb/motor) (👨‍💻 41 · 🔀 180 · 📦 41K · ⏱️ 21.11.2022):
+
+	```
+	git clone https://github.com/mongodb/motor
+	```
+- [PyPi](https://pypi.org/project/motor) (📥 4.9M / month):
+	```
+	pip install motor
+	```
+</details>
+<details><summary><b><a href="https://github.com/roman-right/beanie">beanie</a></b> (🥉23 ·  ⭐ 940 · ➕) - Asynchronous Python ODM for MongoDB. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/roman-right/beanie) (👨‍💻 33 · 🔀 90 · 📋 200 - 55% open · ⏱️ 18.11.2022):
+
+	```
+	git clone https://github.com/roman-right/beanie
+	```
+- [PyPi](https://pypi.org/project/beanie) (📥 34K / month):
+	```
+	pip install beanie
+	```
+</details>
+<details><summary><b><a href="https://github.com/art049/odmantic">odmantic</a></b> (🥉22 ·  ⭐ 720 · ➕) - Sync and Async ODM (Object Document Mapper) for MongoDB based on.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+
+- [GitHub](https://github.com/art049/odmantic) (👨‍💻 17 · 🔀 66 · 📋 110 - 30% open · ⏱️ 24.11.2022):
+
+	```
+	git clone https://github.com/art049/odmantic
+	```
+- [PyPi](https://pypi.org/project/odmantic) (📥 13K / month):
+	```
+	pip install odmantic
+	```
+</details>
+<br>
+
 ## Database - ORMs
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/sqlalchemy/sqlalchemy">sqlalchemy</a></b> (🥇44 ·  ⭐ 6.3K · ➕) - The Database Toolkit for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/sqlalchemy/sqlalchemy">sqlalchemy</a></b> (🥇44 ·  ⭐ 6.3K) - The Database Toolkit for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/sqlalchemy/sqlalchemy) (👨‍💻 580 · 🔀 980 · 📥 39K · 📦 470K · 📋 6.9K - 2% open · ⏱️ 26.11.2022):
 
@@ -107,7 +162,7 @@ This curated list contains 32 awesome open-source projects with a total of 47K s
 	pip install sqlalchemy
 	```
 </details>
-<details><summary><b><a href="https://github.com/collerek/ormar">ormar</a></b> (🥈30 ·  ⭐ 1.2K · ➕) - python async orm with fastapi in mind and pydantic validation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/collerek/ormar">ormar</a></b> (🥈30 ·  ⭐ 1.2K) - python async orm with fastapi in mind and pydantic validation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/collerek/ormar) (👨‍💻 29 · 🔀 59 · 📦 470 · 📋 210 - 20% open · ⏱️ 23.11.2022):
 
@@ -119,7 +174,7 @@ This curated list contains 32 awesome open-source projects with a total of 47K s
 	pip install ormar
 	```
 </details>
-<details><summary><b><a href="https://github.com/tortoise/tortoise-orm">tortoise-orm</a></b> (🥈28 ·  ⭐ 3.2K · ➕) - Familiar asyncio ORM for python, built with relations in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/tortoise/tortoise-orm">tortoise-orm</a></b> (🥈28 ·  ⭐ 3.2K) - Familiar asyncio ORM for python, built with relations in mind. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/tortoise/tortoise-orm) (👨‍💻 110 · 🔀 280 · 📥 9 · 📋 820 - 44% open · ⏱️ 17.11.2022):
 
@@ -131,7 +186,7 @@ This curated list contains 32 awesome open-source projects with a total of 47K s
 	pip install tortoise-orm
 	```
 </details>
-<details><summary><b><a href="https://github.com/piccolo-orm/piccolo">piccolo</a></b> (🥉26 ·  ⭐ 890 · ➕) - A fast, user friendly ORM and query builder which supports asyncio. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/piccolo-orm/piccolo">piccolo</a></b> (🥉26 ·  ⭐ 890) - A fast, user friendly ORM and query builder which supports asyncio. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/piccolo-orm/piccolo) (👨‍💻 34 · 🔀 57 · 📦 120 · 📋 240 - 26% open · ⏱️ 22.11.2022):
 
@@ -143,7 +198,7 @@ This curated list contains 32 awesome open-source projects with a total of 47K s
 	pip install piccolo
 	```
 </details>
-<details><summary><b><a href="https://github.com/RobertCraigie/prisma-client-py">prisma</a></b> (🥉24 ·  ⭐ 880 · ➕) - Prisma Client Python is an auto-generated and fully type-safe.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/RobertCraigie/prisma-client-py">prisma</a></b> (🥉24 ·  ⭐ 880) - Prisma Client Python is an auto-generated and fully type-safe database.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/RobertCraigie/prisma-client-py) (👨‍💻 17 · 🔀 42 · 📦 100 · 📋 250 - 47% open · ⏱️ 27.11.2022):
 
@@ -155,7 +210,7 @@ This curated list contains 32 awesome open-source projects with a total of 47K s
 	pip install prisma
 	```
 </details>
-<details><summary><b><a href="https://github.com/python-gino/gino">gino</a></b> (🥉19 ·  ⭐ 2.5K · ➕) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/python-gino/gino">gino</a></b> (🥉19 ·  ⭐ 2.5K) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/python-gino/gino) (👨‍💻 46 · 🔀 150 · 📋 310 - 15% open · ⏱️ 12.02.2022):
 
@@ -167,7 +222,7 @@ This curated list contains 32 awesome open-source projects with a total of 47K s
 	pip install gino
 	```
 </details>
-<details><summary><b><a href="https://github.com/encode/orm">orm</a></b> (🥉17 ·  ⭐ 1.7K · ➕) - An async ORM. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/encode/orm">orm</a></b> (🥉17 ·  ⭐ 1.7K) - An async ORM. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/encode/orm) (👨‍💻 18 · 🔀 92 · 📋 79 - 20% open · ⏱️ 30.08.2022):
 
@@ -185,7 +240,7 @@ This curated list contains 32 awesome open-source projects with a total of 47K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/tiangolo/sqlmodel">sqlmodel</a></b> (🥇28 ·  ⭐ 9K · ➕) - SQL databases in Python, designed for simplicity, compatibility, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tiangolo/sqlmodel">sqlmodel</a></b> (🥇28 ·  ⭐ 9K) - SQL databases in Python, designed for simplicity, compatibility, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/tiangolo/sqlmodel) (👨‍💻 54 · 🔀 380 · 📋 300 - 54% open · ⏱️ 12.11.2022):
 
@@ -197,7 +252,7 @@ This curated list contains 32 awesome open-source projects with a total of 47K s
 	pip install sqlmodel
 	```
 </details>
-<details><summary><b><a href="https://github.com/mfreeborn/fastapi-sqlalchemy">fastapi-sqlalchemy</a></b> (🥉20 ·  ⭐ 450 · ➕) - Adds simple SQLAlchemy support to FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mfreeborn/fastapi-sqlalchemy">fastapi-sqlalchemy</a></b> (🥉20 ·  ⭐ 450) - Adds simple SQLAlchemy support to FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/mfreeborn/fastapi-sqlalchemy) (👨‍💻 5 · 🔀 31 · 📦 810 · 📋 19 - 52% open · ⏱️ 25.09.2022):
 
