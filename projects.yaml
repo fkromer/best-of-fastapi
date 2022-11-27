@@ -11,6 +11,8 @@ configuration:
 categories:
   - category: admin-interface
     title: Admin Interface
+  - category: database-odms
+    title: Database - ODMs
   - category: database-orms
     title: Database - ORMs
   - category: database-orm-integrations
@@ -51,6 +53,27 @@ projects:
     pypi_id: piccolo-admin
     labels: []
     category: admin-interface
+
+  - name: beanie
+    github_id: roman-right/beanie
+    pypi_id: beanie
+    labels: []
+    category: database-odms
+  - name: mongoengine
+    github_id: MongoEngine/mongoengine
+    pypi_id: mongoengine
+    labels: []
+    category: database-odms
+  - name: motor
+    github_id: mongodb/motor
+    pypi_id: motor
+    labels: []
+    category: database-odms
+  - name: odmantic
+    github_id: art049/odmantic
+    pypi_id: odmantic
+    labels: []
+    category: database-odms
 
   - name: gino
     github_id: python-gino/gino
