@@ -5,6 +5,8 @@ configuration:
 categories:
   - category: admin-interface
     title: Admin Interface
+  - category: graphql-api
+    title: GraphQL API
 
 labels:
   # - label: "python"
