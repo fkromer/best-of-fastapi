@@ -50,3 +50,24 @@ projects:
     pypi_id: tartiflette
     labels: []
     category: graphql-api
+
+  - name: authx
+    github_id: yezz123/AuthX
+    pypi_id: authx
+    labels: [authentication]
+    category: restful-api
+  - name: fastapi-auth
+    github_id: dmontagu/fastapi-auth
+    pypi_id: fastapi-auth
+    labels: [authentication]
+    category: restful-api
+  - name: fastapi-azure-auth
+    github_id: Intility/fastapi-azure-auth
+    pypi_id: fastapi-azure-auth
+    labels: [authentication]
+    category: restful-api
+  - name: fastapi-cloudauth
+    github_id: tokusumi/fastapi-cloudauth
+    pypi_id: fastapi-cloudauth
+    labels: [authentication]
+    category: restful-api
