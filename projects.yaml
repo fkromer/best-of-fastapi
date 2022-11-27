@@ -12,6 +12,8 @@ categories:
 
 labels:
   - label: "authentication"
+  - label: "rate-limiting"
+  - label: "pagination"
 
 projects:
   - name: fastapi-admin
@@ -95,4 +97,16 @@ projects:
     github_id: fastapi-users/fastapi-users
     pypi_id: fastapi-users
     labels: [authentication]
+    category: restful-api
+
+  - name: fastapi-limiter
+    github_id: long2ice/fastapi-limiter
+    pypi_id: fastapi-limiter
+    labels: [rate-limiting]
+    category: restful-api
+
+  - name: fastapi-pagination
+    github_id: uriyyo/fastapi-pagination
+    pypi_id: fastapi-pagination
+    labels: [pagination]
     category: restful-api
