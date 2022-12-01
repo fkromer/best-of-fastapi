@@ -74,6 +74,11 @@ projects:
     pypi_id: odmantic
     labels: []
     category: database-odms
+  - name: pymongo
+    github_id: mongodb/mongo-python-driver
+    pypi_id: pymongo
+    labels: []
+    category: database-odms
 
   - name: gino
     github_id: python-gino/gino
