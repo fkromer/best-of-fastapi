@@ -56,24 +56,24 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 
 <details><summary><b><a href="https://github.com/fastapi-admin/fastapi-admin">fastapi-admin</a></b> (🥇24 ·  ⭐ 1.9K) - A fast admin dashboard based on FastAPI and TortoiseORM with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 12 · 🔀 260 · 📦 140 · 📋 98 - 30% open · ⏱️ 02.06.2023):
+- [GitHub](https://github.com/fastapi-admin/fastapi-admin) (👨‍💻 12 · 🔀 260 · 📦 150 · 📋 99 - 31% open · ⏱️ 02.06.2023):
 
 	```
 	git clone https://github.com/fastapi-admin/fastapi-admin
 	```
-- [PyPi](https://pypi.org/project/fastapi-admin) (📥 2.9K / month):
+- [PyPi](https://pypi.org/project/fastapi-admin) (📥 3.2K / month):
 	```
 	pip install fastapi-admin
 	```
 </details>
 <details><summary><b><a href="https://github.com/aminalaee/sqladmin">sqladmin</a></b> (🥉22 ·  ⭐ 1K) - SQLAlchemy Admin for FastAPI and Starlette. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/aminalaee/sqladmin) (👨‍💻 29 · 🔀 100 · 📋 130 - 10% open · ⏱️ 08.06.2023):
+- [GitHub](https://github.com/aminalaee/sqladmin) (👨‍💻 29 · 🔀 100 · 📋 130 - 11% open · ⏱️ 14.06.2023):
 
 	```
 	git clone https://github.com/aminalaee/sqladmin
 	```
-- [PyPi](https://pypi.org/project/sqladmin) (📥 26K / month):
+- [PyPi](https://pypi.org/project/sqladmin) (📥 28K / month):
 	```
 	pip install sqladmin
 	```
@@ -85,7 +85,7 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/piccolo-orm/piccolo_admin
 	```
-- [PyPi](https://pypi.org/project/piccolo-admin) (📥 1.8K / month):
+- [PyPi](https://pypi.org/project/piccolo-admin) (📥 1.9K / month):
 	```
 	pip install piccolo-admin
 	```
@@ -110,19 +110,19 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 </details>
 <details><summary><b><a href="https://github.com/mongodb/motor">motor</a></b> (🥈34 ·  ⭐ 2.2K) - Motor - the async Python driver for MongoDB and Tornado or asyncio. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mongodb/motor) (👨‍💻 42 · 🔀 180 · 📦 62K · ⏱️ 16.05.2023):
+- [GitHub](https://github.com/mongodb/motor) (👨‍💻 43 · 🔀 180 · 📦 62K · ⏱️ 14.06.2023):
 
 	```
 	git clone https://github.com/mongodb/motor
 	```
-- [PyPi](https://pypi.org/project/motor) (📥 880K / month):
+- [PyPi](https://pypi.org/project/motor) (📥 870K / month):
 	```
 	pip install motor
 	```
 </details>
 <details><summary><b><a href="https://github.com/mongodb/mongo-python-driver">pymongo</a></b> (🥉30 ·  ⭐ 3.9K) - PyMongo - the Official MongoDB Python driver. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mongodb/mongo-python-driver) (👨‍💻 200 · 🔀 1K · ⏱️ 06.06.2023):
+- [GitHub](https://github.com/mongodb/mongo-python-driver) (👨‍💻 200 · 🔀 1K · ⏱️ 15.06.2023):
 
 	```
 	git clone https://github.com/mongodb/mongo-python-driver
@@ -132,14 +132,14 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	pip install pymongo
 	```
 </details>
-<details><summary><b><a href="https://github.com/roman-right/beanie">beanie</a></b> (🥉29 ·  ⭐ 1.2K) - Asynchronous Python ODM for MongoDB. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/roman-right/beanie">beanie</a></b> (🥉30 ·  ⭐ 1.2K · 📈) - Asynchronous Python ODM for MongoDB. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/roman-right/beanie) (👨‍💻 47 · 🔀 120 · 📦 1.1K · 📋 260 - 10% open · ⏱️ 26.05.2023):
+- [GitHub](https://github.com/roman-right/beanie) (👨‍💻 47 · 🔀 120 · 📦 1.1K · 📋 260 - 10% open · ⏱️ 09.06.2023):
 
 	```
 	git clone https://github.com/roman-right/beanie
 	```
-- [PyPi](https://pypi.org/project/beanie) (📥 59K / month):
+- [PyPi](https://pypi.org/project/beanie) (📥 61K / month):
 	```
 	pip install beanie
 	```
@@ -151,7 +151,7 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/art049/odmantic
 	```
-- [PyPi](https://pypi.org/project/odmantic) (📥 14K / month):
+- [PyPi](https://pypi.org/project/odmantic) (📥 15K / month):
 	```
 	pip install odmantic
 	```
@@ -162,14 +162,14 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/sqlalchemy/sqlalchemy">sqlalchemy</a></b> (🥇45 ·  ⭐ 7.3K) - The Database Toolkit for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/sqlalchemy/sqlalchemy">sqlalchemy</a></b> (🥇45 ·  ⭐ 7.4K) - The Database Toolkit for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sqlalchemy/sqlalchemy) (👨‍💻 630 · 🔀 1.1K · 📥 44K · 📦 580K · 📋 7.3K - 2% open · ⏱️ 07.06.2023):
+- [GitHub](https://github.com/sqlalchemy/sqlalchemy) (👨‍💻 630 · 🔀 1.1K · 📥 44K · 📦 580K · 📋 7.3K - 2% open · ⏱️ 15.06.2023):
 
 	```
 	git clone https://github.com/sqlalchemy/sqlalchemy
 	```
-- [PyPi](https://pypi.org/project/sqlalchemy) (📥 73M / month):
+- [PyPi](https://pypi.org/project/sqlalchemy) (📥 74M / month):
 	```
 	pip install sqlalchemy
 	```
@@ -181,12 +181,12 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/tortoise/tortoise-orm
 	```
-- [PyPi](https://pypi.org/project/tortoise-orm) (📥 83K / month):
+- [PyPi](https://pypi.org/project/tortoise-orm) (📥 85K / month):
 	```
 	pip install tortoise-orm
 	```
 </details>
-<details><summary><b><a href="https://github.com/collerek/ormar">ormar</a></b> (🥈30 ·  ⭐ 1.3K) - python async orm with fastapi in mind and pydantic validation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/collerek/ormar">ormar</a></b> (🥈30 ·  ⭐ 1.4K) - python async orm with fastapi in mind and pydantic validation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/collerek/ormar) (👨‍💻 31 · 🔀 64 · 📦 800 · 📋 230 - 24% open · ⏱️ 02.06.2023):
 
@@ -200,12 +200,12 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 </details>
 <details><summary><b><a href="https://github.com/RobertCraigie/prisma-client-py">prisma</a></b> (🥉28 ·  ⭐ 1.2K) - Prisma Client Python is an auto-generated and fully type-safe.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/RobertCraigie/prisma-client-py) (👨‍💻 21 · 🔀 48 · 📦 260 · 📋 300 - 47% open · ⏱️ 31.05.2023):
+- [GitHub](https://github.com/RobertCraigie/prisma-client-py) (👨‍💻 23 · 🔀 51 · 📦 270 · 📋 300 - 46% open · ⏱️ 15.06.2023):
 
 	```
 	git clone https://github.com/RobertCraigie/prisma-client-py
 	```
-- [PyPi](https://pypi.org/project/prisma) (📥 21K / month):
+- [PyPi](https://pypi.org/project/prisma) (📥 22K / month):
 	```
 	pip install prisma
 	```
@@ -217,7 +217,7 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/piccolo-orm/piccolo
 	```
-- [PyPi](https://pypi.org/project/piccolo) (📥 16K / month):
+- [PyPi](https://pypi.org/project/piccolo) (📥 17K / month):
 	```
 	pip install piccolo
 	```
@@ -254,7 +254,7 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 
 <details><summary><b><a href="https://github.com/tiangolo/sqlmodel">sqlmodel</a></b> (🥇31 ·  ⭐ 10K) - SQL databases in Python, designed for simplicity, compatibility, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tiangolo/sqlmodel) (👨‍💻 53 · 🔀 420 · 📦 6.1K · 📋 320 - 54% open · ⏱️ 21.02.2023):
+- [GitHub](https://github.com/tiangolo/sqlmodel) (👨‍💻 53 · 🔀 410 · 📦 6.2K · 📋 320 - 54% open · ⏱️ 21.02.2023):
 
 	```
 	git clone https://github.com/tiangolo/sqlmodel
@@ -264,14 +264,14 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	pip install sqlmodel
 	```
 </details>
-<details><summary><b><a href="https://github.com/mfreeborn/fastapi-sqlalchemy">fastapi-sqlalchemy</a></b> (🥉22 ·  ⭐ 510 · 📈) - Adds simple SQLAlchemy support to FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mfreeborn/fastapi-sqlalchemy">fastapi-sqlalchemy</a></b> (🥉22 ·  ⭐ 510) - Adds simple SQLAlchemy support to FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/mfreeborn/fastapi-sqlalchemy) (👨‍💻 5 · 🔀 34 · 📦 1.3K · 📋 20 - 55% open · ⏱️ 25.09.2022):
 
 	```
 	git clone https://github.com/mfreeborn/fastapi-sqlalchemy
 	```
-- [PyPi](https://pypi.org/project/fastapi-sqlalchemy) (📥 60K / month):
+- [PyPi](https://pypi.org/project/fastapi-sqlalchemy) (📥 68K / month):
 	```
 	pip install fastapi-sqlalchemy
 	```
@@ -296,24 +296,24 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 </details>
 <details><summary><b><a href="https://github.com/mirumee/ariadne">ariadne</a></b> (🥈34 ·  ⭐ 2K) - Python library for implementing GraphQL servers using schema-first.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/mirumee/ariadne) (👨‍💻 68 · 🔀 160 · 📦 1.3K · 📋 290 - 15% open · ⏱️ 07.06.2023):
+- [GitHub](https://github.com/mirumee/ariadne) (👨‍💻 68 · 🔀 160 · 📦 1.3K · 📋 290 - 15% open · ⏱️ 12.06.2023):
 
 	```
 	git clone https://github.com/mirumee/ariadne
 	```
-- [PyPi](https://pypi.org/project/ariadne) (📥 190K / month):
+- [PyPi](https://pypi.org/project/ariadne) (📥 230K / month):
 	```
 	pip install ariadne
 	```
 </details>
-<details><summary><b><a href="https://github.com/strawberry-graphql/strawberry">strawberry</a></b> (🥉32 ·  ⭐ 3.2K) - A GraphQL library for Python that leverages type annotations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/strawberry-graphql/strawberry">strawberry</a></b> (🥉32 ·  ⭐ 3.3K) - A GraphQL library for Python that leverages type annotations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/strawberry-graphql/strawberry) (👨‍💻 200 · 🔀 400 · 📥 430 · 📦 1.9K · 📋 750 - 38% open · ⏱️ 08.06.2023):
+- [GitHub](https://github.com/strawberry-graphql/strawberry) (👨‍💻 210 · 🔀 400 · 📥 440 · 📦 1.9K · 📋 750 - 38% open · ⏱️ 15.06.2023):
 
 	```
 	git clone https://github.com/strawberry-graphql/strawberry
 	```
-- [PyPi](https://pypi.org/project/strawberry) (📥 410 / month):
+- [PyPi](https://pypi.org/project/strawberry) (📥 520 / month):
 	```
 	pip install strawberry
 	```
@@ -325,7 +325,7 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/tartiflette/tartiflette
 	```
-- [PyPi](https://pypi.org/project/tartiflette) (📥 2.2K / month):
+- [PyPi](https://pypi.org/project/tartiflette) (📥 2.9K / month):
 	```
 	pip install tartiflette
 	```
@@ -338,19 +338,19 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 
 <details><summary><b><a href="https://github.com/fastapi-users/fastapi-users">fastapi-users</a></b> (🥇31 ·  ⭐ 2.8K) - Ready-to-use and customizable users management for FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fastapi-users/fastapi-users) (👨‍💻 58 · 🔀 270 · 📥 49 · 📦 1.4K · 📋 230 - 1% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/fastapi-users/fastapi-users) (👨‍💻 58 · 🔀 270 · 📥 50 · 📦 1.4K · 📋 230 - 1% open · ⏱️ 10.05.2023):
 
 	```
 	git clone https://github.com/fastapi-users/fastapi-users
 	```
-- [PyPi](https://pypi.org/project/fastapi-users) (📥 53K / month):
+- [PyPi](https://pypi.org/project/fastapi-users) (📥 45K / month):
 	```
 	pip install fastapi-users
 	```
 </details>
-<details><summary><b><a href="https://github.com/MushroomMaula/fastapi_login">fastapi-login</a></b> (🥈25 ·  ⭐ 490) - FastAPI-Login tries to provide similar functionality as.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/MushroomMaula/fastapi_login">fastapi-login</a></b> (🥈25 ·  ⭐ 480) - FastAPI-Login tries to provide similar functionality as.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/MushroomMaula/fastapi_login) (👨‍💻 12 · 🔀 49 · 📥 3 · 📦 510 · 📋 51 - 11% open · ⏱️ 27.03.2023):
+- [GitHub](https://github.com/MushroomMaula/fastapi_login) (👨‍💻 12 · 🔀 49 · 📥 3 · 📦 520 · 📋 51 - 11% open · ⏱️ 27.03.2023):
 
 	```
 	git clone https://github.com/MushroomMaula/fastapi_login
@@ -360,7 +360,7 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	pip install fastapi-login
 	```
 </details>
-<details><summary><b><a href="https://github.com/Intility/fastapi-azure-auth">fastapi-azure-auth</a></b> (🥈23 ·  ⭐ 260) - Easy and secure implementation of Azure AD for your.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Intility/fastapi-azure-auth">fastapi-azure-auth</a></b> (🥈23 ·  ⭐ 270) - Easy and secure implementation of Azure AD for your.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Intility/fastapi-azure-auth) (👨‍💻 19 · 🔀 47 · 📦 38 · 📋 60 - 6% open · ⏱️ 29.05.2023):
 
@@ -372,21 +372,21 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	pip install fastapi-azure-auth
 	```
 </details>
-<details><summary><b><a href="https://github.com/yezz123/authx">authx</a></b> (🥈21 ·  ⭐ 500) - Ready-to-use and customizable Authentications and Oauth2 management for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/yezz123/authx">authx</a></b> (🥈21 ·  ⭐ 510) - Ready-to-use and customizable Authentications and Oauth2 management for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/yezz123/authx) (👨‍💻 12 · 🔀 33 · 📦 7 · 📋 27 - 14% open · ⏱️ 05.06.2023):
+- [GitHub](https://github.com/yezz123/authx) (👨‍💻 12 · 🔀 33 · 📦 7 · 📋 27 - 14% open · ⏱️ 12.06.2023):
 
 	```
 	git clone https://github.com/yezz123/AuthX
 	```
-- [PyPi](https://pypi.org/project/authx) (📥 450 / month):
+- [PyPi](https://pypi.org/project/authx) (📥 570 / month):
 	```
 	pip install authx
 	```
 </details>
 <details><summary><b><a href="https://github.com/tokusumi/fastapi-cloudauth">fastapi-cloudauth</a></b> (🥉20 ·  ⭐ 280 · 💤) - Simple integration between FastAPI and cloud.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tokusumi/fastapi-cloudauth) (👨‍💻 6 · 🔀 32 · 📦 67 · 📋 45 - 60% open · ⏱️ 12.05.2022):
+- [GitHub](https://github.com/tokusumi/fastapi-cloudauth) (👨‍💻 6 · 🔀 32 · 📦 68 · 📋 45 - 60% open · ⏱️ 12.05.2022):
 
 	```
 	git clone https://github.com/tokusumi/fastapi-cloudauth
@@ -403,19 +403,19 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/IndominusByte/fastapi-jwt-auth
 	```
-- [PyPi](https://pypi.org/project/fastapi-jwt-auth) (📥 43K / month):
+- [PyPi](https://pypi.org/project/fastapi-jwt-auth) (📥 48K / month):
 	```
 	pip install fastapi-jwt-auth
 	```
 </details>
 <details><summary><b><a href="https://github.com/jacobsvante/fastapi-security">fastapi-security</a></b> (🥉14 ·  ⭐ 110 · 💤) - Implements authentication and authorization as.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jacobsvante/fastapi-security) (👨‍💻 3 · 🔀 4 · 📥 23 · 📦 37 · ⏱️ 15.05.2022):
+- [GitHub](https://github.com/jacobsvante/fastapi-security) (👨‍💻 3 · 🔀 4 · 📥 25 · 📦 37 · ⏱️ 15.05.2022):
 
 	```
 	git clone https://github.com/jacobsvante/fastapi-security
 	```
-- [PyPi](https://pypi.org/project/fastapi-security) (📥 4.7K / month):
+- [PyPi](https://pypi.org/project/fastapi-security) (📥 4.6K / month):
 	```
 	pip install fastapi-security
 	```
@@ -427,19 +427,19 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/mrtolkien/fastapi_simple_security
 	```
-- [PyPi](https://pypi.org/project/fastapi-simple-security) (📥 500 / month):
+- [PyPi](https://pypi.org/project/fastapi-simple-security) (📥 530 / month):
 	```
 	pip install fastapi-simple-security
 	```
 </details>
-<details><summary><b><a href="https://github.com/dmontagu/fastapi-auth">fastapi-auth</a></b> (🥉6 ·  ⭐ 120 · 💤) - Auth for use with FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dmontagu/fastapi-auth">fastapi-auth</a></b> (🥉7 ·  ⭐ 120 · 💤) - Auth for use with FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/dmontagu/fastapi-auth) (🔀 4 · 📋 2 - 50% open · ⏱️ 18.12.2019):
 
 	```
 	git clone https://github.com/dmontagu/fastapi-auth
 	```
-- [PyPi](https://pypi.org/project/fastapi-auth) (📥 140 / month):
+- [PyPi](https://pypi.org/project/fastapi-auth) (📥 280 / month):
 	```
 	pip install fastapi-auth
 	```
@@ -450,9 +450,9 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/long2ice/fastapi-limiter">fastapi-limiter</a></b> (🥇21 ·  ⭐ 280 · 📈) - A request rate limiter for fastapi. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/long2ice/fastapi-limiter">fastapi-limiter</a></b> (🥇21 ·  ⭐ 290) - A request rate limiter for fastapi. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/long2ice/fastapi-limiter) (👨‍💻 9 · 🔀 35 · 📦 360 · 📋 23 - 43% open · ⏱️ 05.06.2023):
+- [GitHub](https://github.com/long2ice/fastapi-limiter) (👨‍💻 9 · 🔀 35 · 📦 370 · 📋 23 - 43% open · ⏱️ 05.06.2023):
 
 	```
 	git clone https://github.com/long2ice/fastapi-limiter
@@ -468,9 +468,9 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/uriyyo/fastapi-pagination">fastapi-pagination</a></b> (🥇31 ·  ⭐ 730) - FastAPI pagination. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/uriyyo/fastapi-pagination">fastapi-pagination</a></b> (🥇31 ·  ⭐ 740) - FastAPI pagination. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/uriyyo/fastapi-pagination) (👨‍💻 32 · 🔀 92 · 📦 1.3K · 📋 130 - 8% open · ⏱️ 08.06.2023):
+- [GitHub](https://github.com/uriyyo/fastapi-pagination) (👨‍💻 32 · 🔀 93 · 📦 1.3K · 📋 130 - 8% open · ⏱️ 14.06.2023):
 
 	```
 	git clone https://github.com/uriyyo/fastapi-pagination
@@ -488,24 +488,24 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 
 <details><summary><b><a href="https://github.com/open-telemetry/opentelemetry-python-contrib">opentelemetry-instrumentation-fastapi</a></b> (🥇28 ·  ⭐ 470) - OpenTelemetry instrumentation for Python modules. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/open-telemetry/opentelemetry-python-contrib) (👨‍💻 200 · 🔀 360 · 📦 6 · 📋 740 - 38% open · ⏱️ 23.05.2023):
+- [GitHub](https://github.com/open-telemetry/opentelemetry-python-contrib) (👨‍💻 200 · 🔀 360 · 📦 6 · 📋 750 - 37% open · ⏱️ 13.06.2023):
 
 	```
 	git clone https://github.com/open-telemetry/opentelemetry-python-contrib
 	```
-- [PyPi](https://pypi.org/project/opentelemetry-instrumentation-fastapi) (📥 700K / month):
+- [PyPi](https://pypi.org/project/opentelemetry-instrumentation-fastapi) (📥 720K / month):
 	```
 	pip install opentelemetry-instrumentation-fastapi
 	```
 </details>
 <details><summary><b><a href="https://github.com/trallnag/prometheus-fastapi-instrumentator">prometheus-fastapi-instrumentator</a></b> (🥉27 ·  ⭐ 560) - Instrument your FastAPI app. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/trallnag/prometheus-fastapi-instrumentator) (👨‍💻 24 · 🔀 61 · 📦 690 · 📋 71 - 28% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/trallnag/prometheus-fastapi-instrumentator) (👨‍💻 24 · 🔀 62 · 📦 700 · 📋 72 - 29% open · ⏱️ 19.04.2023):
 
 	```
 	git clone https://github.com/trallnag/prometheus-fastapi-instrumentator
 	```
-- [PyPi](https://pypi.org/project/prometheus-fastapi-instrumentator) (📥 340K / month):
+- [PyPi](https://pypi.org/project/prometheus-fastapi-instrumentator) (📥 350K / month):
 	```
 	pip install prometheus-fastapi-instrumentator
 	```
@@ -517,7 +517,7 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/wesdu/fastapi-opentracing
 	```
-- [PyPi](https://pypi.org/project/fastapi-opentracing) (📥 47 / month):
+- [PyPi](https://pypi.org/project/fastapi-opentracing) (📥 68 / month):
 	```
 	pip install fastapi-opentracing
 	```
@@ -535,7 +535,7 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/mikeckennedy/fastapi-chameleon
 	```
-- [PyPi](https://pypi.org/project/fastapi-chameleon) (📥 240 / month):
+- [PyPi](https://pypi.org/project/fastapi-chameleon) (📥 320 / month):
 	```
 	pip install fastapi-chameleon
 	```
@@ -547,7 +547,7 @@ This curated list contains 37 awesome open-source projects with a total of 66K s
 	```
 	git clone https://github.com/AGeekInside/fastapi-jinja
 	```
-- [PyPi](https://pypi.org/project/fastapi-jinja) (📥 120 / month):
+- [PyPi](https://pypi.org/project/fastapi-jinja) (📥 130 / month):
 	```
 	pip install fastapi-jinja
 	```
