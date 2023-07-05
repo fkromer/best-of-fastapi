@@ -199,6 +199,11 @@ projects:
     pypi_id: fastapi-limiter
     labels: [rate-limiting]
     category: restful-api-rate-limiting
+  - name: SlowApi
+    github_id: laurentS/slowapi
+    pypi_id: slowapi
+    labels: [rate-limiting]
+    category: restful-api-rate-limiting
 
   - name: fastapi-pagination
     github_id: uriyyo/fastapi-pagination
