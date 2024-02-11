@@ -11,6 +11,8 @@ configuration:
 categories:
   - category: admin-interface
     title: Admin Interface
+  - category: crud
+    title: CRUD
   - category: database-odms
     title: Database - ODMs
   - category: database-orms
@@ -53,6 +55,11 @@ projects:
     pypi_id: piccolo-admin
     labels: []
     category: admin-interface
+
+  - name: FastCRUD
+    github_id: igorbenav/fastcrud
+    labels: []
+    category: crud
 
   - name: beanie
     github_id: roman-right/beanie
