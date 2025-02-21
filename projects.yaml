@@ -31,6 +31,8 @@ categories:
     title: RESTful API - Observability
   - category: restful-api-templating
     title: RESTful API - Templating
+  - category: requirement-management-framework
+    title: Requirement management tools based on FastAPI
 
 labels:
   - label: "authentication"
@@ -244,3 +246,8 @@ projects:
     pypi_id: fastapi-jinja
     labels: [observability]
     category: restful-api-templating
+
+  - name: strictdoc
+    github_id: strictdoc-project/strictdoc
+    pypi_id: strictdoc
+    category: requirement-management-framework
