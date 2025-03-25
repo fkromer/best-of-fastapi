@@ -19,6 +19,8 @@ categories:
     title: Database - ORMs
   - category: database-orm-integrations
     title: Database - ORM Integrations
+  - category: dappfs
+    title: Distributed Application Frameworks
   - category: graphql-api
     title: GraphQL API
   - category: restful-api-authentication
@@ -135,6 +137,12 @@ projects:
     pypi_id: sqlmodel
     labels: []
     category: database-orm-integrations
+
+  - name: Dapr SDK for Python
+    github_id: dapr/python-sdk
+    pypi_id: dapr-ext-fastapi
+    labels: []
+    category: dappfs
 
   - name: ariadne
     github_id: mirumee/ariadne
