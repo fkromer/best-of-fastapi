@@ -259,3 +259,11 @@ projects:
     github_id: strictdoc-project/strictdoc
     pypi_id: strictdoc
     category: requirement-management-framework
+  - name: xcore
+    github_id: traoreera/xcore
+    pypi_id: XCoreRuntime
+    labels: []
+    category: dappfs
+    
+    
+    
